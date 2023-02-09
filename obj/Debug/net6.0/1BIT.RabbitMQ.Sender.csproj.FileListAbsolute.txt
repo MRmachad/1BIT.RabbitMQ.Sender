@@ -1,0 +1,17 @@
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\bin\Debug\net6.0\1BIT.RabbitMQ.Sender.exe
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\bin\Debug\net6.0\1BIT.RabbitMQ.Sender.deps.json
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\bin\Debug\net6.0\1BIT.RabbitMQ.Sender.runtimeconfig.json
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\bin\Debug\net6.0\1BIT.RabbitMQ.Sender.dll
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\bin\Debug\net6.0\1BIT.RabbitMQ.Sender.pdb
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.csproj.AssemblyReference.cache
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.AssemblyInfoInputs.cache
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.AssemblyInfo.cs
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.csproj.CoreCompileInputs.cache
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.csproj.CopyComplete
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.dll
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\refint\1BIT.RabbitMQ.Sender.dll
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.pdb
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\1BIT.RabbitMQ.Sender.genruntimeconfig.cache
+D:\Dev\ByMySelf\1BIT.RabbitMQ.Sender\1BIT.RabbitMQ.Sender\obj\Debug\net6.0\ref\1BIT.RabbitMQ.Sender.dll
